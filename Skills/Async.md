@@ -4,23 +4,23 @@
   - Event loop: 🖐️ used
   - try..catch: 🖐️ used
   - Non-blocking: 👂 heard
-  - Async I/O: 👂 heard
-  - Thread pool: 👂 heard
+  - Async I/O: 🖐️ used
+  - Thread pool: 🖐️ used
   - Pattern Reactor: 👂 heard
   - CAS operations: 👂 heard
   - epoll: 👂 heard
   - kqueue: 👂 heard
-  - Completion ports: 👂 heard
-  - Event ports: 👂 heard
+  - Completion ports: 🖐️ used
+  - Event ports: 🖐️ used
   - libuv: 👂 heard
   - Race conditions: 👂 heard
   - Dead locks: 👂 heard
   - Live locks: 👂 heard
-  - Concurrent programming: 👂 heard
-  - Parallel programming: 👂 heard
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model: 👂 heard
-  - Thread: 👂 heard
-  - Process: 👂 heard
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks: 👂 heard
   - Callback-last-error-first: 👂 heard
@@ -59,15 +59,15 @@
   - Mutex: 👂 heard
   - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
-  - Timers: 👂 heard
-  - setImmediate: 👂 heard
+  - Timers: 🖐️ used
+  - setImmediate: 🖐️ used
   - nextTick: 👂 heard
-  - AbortController: 👂 heard
-  - AbortSignal: 👂 heard
+  - AbortController: 🖐️ used
+  - AbortSignal: 🖐️ used
   - Promise unhandled rejection: 👂 heard
   - Promise double resolve: 👂 heard
-  - child_process: 👂 heard
-  - worker_threads: 👂 heard
+  - child_process: 🖐️ used
+  - worker_threads: 🖐️ used
   - Atomics: 👂 heard
   - High resolution clock: 👂 heard
   - Callback hell: 👂 heard
@@ -88,8 +88,8 @@
   - Promise.allSettled: 👂 heard
   - Promise.race: 👂 heard
   - Promise.any: 👂 heard
-  - Web Locks API: 👂 heard
+  - Web Locks API: 🖐️ used
   - IPC: 👂 heard
-  - Channel API: 👂 heard
-  - Revealing Constructor: 👂 heard
-  - Web Locks API: 👂 heard
+  - Channel API: 🖐️ used
+  - Revealing Constructor: 🖐️ used
+  - Web Locks API: 🖐️ used

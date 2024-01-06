@@ -77,58 +77,58 @@
   - CQS: 👂 heard
   - CQRS: 👂 heard
   - Event sourcing: 👂 heard
-  - Load balancing: 👂 heard
+  - Load balancing: 🖐️ used
   - Serverless clouds: 👂 heard
   - FaaS clouds: 👂 heard
   - Fat controller: 👂 heard
   - GoF for Node.js: 👂 heard
   - Leaking abstractions: 👂 heard
 - Network
-  - IP sticky sessions: 👂 heard
+  - IP sticky sessions: 🖐️ used
   - Endpoint throttling: 👂 heard
-  - HTTP(S): 👂 heard
-  - TCP/SSL: 👂 heard
-  - UDP: 👂 heard
-  - TLS: 👂 heard
-  - Websocket: 👂 heard
+  - HTTP(S): 🔬 researched
+  - TCP/SSL: 🔬 researched
+  - UDP: 🔬 researched
+  - TLS: 🔬 researched
+  - Websocket: 🖐️ used
   - SSE: 👂 heard
   - HTTP/3 (QUIC): 👂 heard
   - Long polling: 👂 heard
-  - REST: 👂 heard
+  - REST: 🖐️ used
   - RPC: 👂 heard
-  - Routing: 👂 heard
-  - DoS: 👂 heard
-  - DDoS: 👂 heard
+  - Routing: 🔬 researched
+  - DoS: 🔬 researched
+  - DDoS: 🔬 researched
   - XSS: 👂 heard
   - Path traversal: 👂 heard
   - CSRF: 👂 heard
-  - DNS: 👂 heard
-  - Fetch API: 👂 heard
+  - DNS: 🔬 researched
+  - Fetch API: 🖐️ used
   - IncomingMessage: 👂 heard
   - SQL injection: 👂 heard
   - noDelay: 👂 heard
   - keep-alive: 👂 heard
   - ALPN: 👂 heard
   - SNI callback: 👂 heard
-  - SSL certificates: 👂 heard
+  - SSL certificates: 🔬 researched
   - Protocol agnostic approach: 👂 heard
 - Technique and tools
-  - Native test runner: 👂 heard
-  - Logging: 👂 heard
-  - Application configuring: 👂 heard
-  - Testing: 👂 heard
-  - CI/CD: 👂 heard
+  - Native test runner: 🖐️ used
+  - Logging: 🖐️ used
+  - Application configuring: 🖐️ used
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
   - Readable: 👂 heard
   - Writable: 👂 heard
   - Transform: 👂 heard
   - back pressure: 👂 heard
   - Buffer: 👂 heard
-  - Console: 👂 heard
-  - Inspector: 👂 heard
+  - Console: 🖐️ used
+  - Inspector: 🖐️ used
   - Reliability: 👂 heard
   - Quality: 👂 heard
   - Availability: 👂 heard
-  - Flexibility: 👂 heard
+  - Flexibility: 🖐️ used
 - Data access
   - Data access layer: 👂 heard
   - Repository: 👂 heard

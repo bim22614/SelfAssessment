@@ -3,11 +3,11 @@
 - Theory
   - Procedural programming: 👂 heard
   - Imperative programming: 👂 heard
-  - Structured programming: 👂 heard
-  - Non-structured programming: 👂 heard
-  - Functional programming: 👂 heard
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 🖐️ used
+  - Functional programming: 🖐️ used
   - Prototype-based programming: 👂 heard
-  - Object-oriented programming: 👂 heard
+  - Object-oriented programming: 🖐️ used
   - Object-based programming: 👂 heard
   - Generic programming: 👂 heard
   - Concurrent computing: 👂 heard
@@ -16,45 +16,45 @@
   - Reactive programming: 👂 heard
   - FRP (Functional-reactive): 👂 heard
   - Automata-based programming: 👂 heard
-  - Domain-specific languages: 👂 heard
+  - Domain-specific languages: 🖐️ used
   - Multi-paradigm programming: 👂 heard
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
 - OOP basics
-  - constructor: 👂 heard
-  - new: 👂 heard
-  - Static method: 👂 heard
-  - Method: 👂 heard
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
   - Async method: 👂 heard
   - Getters, Setters: 👂 heard
-  - Public fields: 👂 heard
-  - Private fields: 👂 heard
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations: 👂 heard
   - Inheritance: 👂 heard
   - Parent class: 👂 heard
   - Polymorphism: 👂 heard
   - Abstract class: 👂 heard
-  - Interface: 👂 heard
+  - Interface: 🖐️ used
   - Encapsulation: 👂 heard
   - Hidden class: 👂 heard
-  - Object form: 👂 heard
-  - instance: 👂 heard
+  - Object form: 🖐️ used
+  - instance: 🖐️ used
   - Introspection: 👂 heard
   - Reflection: 👂 heard
 - Patterns
   - Singleton: 👂 heard
   - Factory Method: 👂 heard
   - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
+  - Adapter: 🖐️ used
   - Observer: 👂 heard
-  - Strategy: 👂 heard
+  - Strategy: 🖐️ used
   - Facade: 👂 heard
-  - Proxy: 👂 heard
+  - Proxy: 🖐️ used
   - Chain of Responsibility: 👂 heard
-  - Command: 👂 heard
+  - Command: 🖐️ used
   - Iterator: 👂 heard
-  - State: 👂 heard
-  - Bridge: 👂 heard
+  - State: 🖐️ used
+  - Bridge: 🖐️ used
   - Builder: 👂 heard
   - Prototype: 👂 heard
   - Composite: 👂 heard
