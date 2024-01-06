@@ -3,42 +3,42 @@
 - Language
   - Object: 🖐️ used
   - this: 🖐️ used
-  - arrow function: 👂 heard
-  - async function: 👂 heard
+  - arrow function: 🖐️ used
+  - async function: 🖐️ used
   - call: 🖐️ used
   - bind: 👂 heard
   - apply: 🖐️ used
   - instanceof: 👂 heard
   - ...spread: 👂 heard
   - ...rest: 👂 heard
-  - typeof: 👂 heard
+  - typeof: 🖐️ used
   - destructuring: 👂 heard
-  - generator: 👂 heard
-  - iterator: 👂 heard
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - async generator: 🖐️ used
+  - async iterator: 🖐️ used
   - chaining: 👂 heard
   - optional chaining: 👂 heard
   - IIFE: 👂 heard
   - global: 🖐️ used
-  - globalThis: 👂 heard
-  - window: 👂 heard
-  - getters and setters: 👂 heard
+  - globalThis: 🖐️ used
+  - window: 🖐️ used
+  - getters and setters: 🖐️ used
   - __proto__: 👂 heard
   - prototype: 👂 heard
-  - equality operators: 👂 heard
-  - logical operators: 👂 heard
-  - bitwise operators: 👂 heard
-  - ternary operator: 👂 heard
+  - equality operators: 🖐️ used
+  - logical operators: 🖐️ used
+  - bitwise operators: 🖐️ used
+  - ternary operator: 🖐️ used
   - void: 🖐️ used
   - yield: 👂 heard
   - await: 👂 heard
   - template literal: 👂 heard
   - strict mode: 👂 heard
   - delete: 🖐️ used
-  - in: 👂 heard
-  - super: 👂 heard
-  - Symbol: 👂 heard
+  - in: 🖐️ used
+  - super: 🖐️ used
+  - Symbol: 🖐️ used
   - Reflect: 👂 heard
 - Statements
   - if: 🖐️ used
@@ -67,14 +67,14 @@
   - functional object: 🖐️ used
 - Data structures
   - Array: 🖐️ used
-  - mixin: 👂 heard
-  - extend: 👂 heard
+  - mixin: 🖐️ used
+  - extend: 🖐️ used
   - typed arrays: 👂 heard
   - Map: 🖐️ used
   - Set: 🖐️ used
   - undefined: 🖐️ used
   - null: 🖐️ used
-  - Proxy: 👂 heard
+  - Proxy: 🖐️ used
   - weak collections: 👂 heard
   - timers: 👂 heard
   - EventEmitter: 👂 heard
